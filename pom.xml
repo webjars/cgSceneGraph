@@ -25,7 +25,7 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/GwennaelBuchet/cgSceneGraph</url>
+        <url>http://github.com/webjars/cgSceneGraph</url>
         <connection>scm:git:https://github.com/webjars/cgSceneGraph.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cgSceneGraph.git</developerConnection>
         <tag>HEAD</tag>
