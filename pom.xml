@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>cgSceneGraph</artifactId>
-    <version>1.2.3-SNAPSHOT</version>
+    <version>1.2.3</version>
     <name>cgSceneGraph</name>
     <description>WebJar for cgSceneGraph</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/GwennaelBuchet/cgSceneGraph</url>
         <connection>scm:git:https://github.com/webjars/cgSceneGraph.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/cgSceneGraph.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>cgSceneGraph-1.2.3</tag>
     </scm>
 
     <developers>
